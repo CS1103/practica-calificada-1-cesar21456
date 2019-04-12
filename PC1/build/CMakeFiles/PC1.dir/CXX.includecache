@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/cesar/e7e78cfd-1113-40b6-96da-b1820e5d135e/practica-calificada-1-cesar21456-master/PC1/TwoLinkedList.cpp
+TwoLinkedList.h
+/media/cesar/e7e78cfd-1113-40b6-96da-b1820e5d135e/practica-calificada-1-cesar21456-master/PC1/TwoLinkedList.h
+
+/media/cesar/e7e78cfd-1113-40b6-96da-b1820e5d135e/practica-calificada-1-cesar21456-master/PC1/TwoLinkedList.h
+string
+-
+fstream
+-
+
+/media/cesar/e7e78cfd-1113-40b6-96da-b1820e5d135e/practica-calificada-1-cesar21456-master/PC1/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cassert
+-
+TwoLinkedList.h
+/media/cesar/e7e78cfd-1113-40b6-96da-b1820e5d135e/practica-calificada-1-cesar21456-master/PC1/TwoLinkedList.h
+
